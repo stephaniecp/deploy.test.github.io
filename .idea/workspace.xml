@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="542505af-e205-4e47-8647-bcf1848c12eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/about2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/boat.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/jumbotron.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/strangewaves.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-bootstrap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-jumbotron.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/jon.jpg" afterPath="$PROJECT_DIR$/images/jon.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/steph.jpg" afterPath="$PROJECT_DIR$/images/steph.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/boat.html" afterPath="$PROJECT_DIR$/boat.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="deploy.test.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -151,8 +137,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="106" />
-    <option name="y" value="23" />
+    <option name="x" value="323" />
+    <option name="y" value="648" />
     <option name="width" value="1291" />
     <option name="height" value="873" />
   </component>
@@ -280,15 +266,15 @@
       <workItem from="1490742907276" duration="3687000" />
       <workItem from="1490913586126" duration="662000" />
       <workItem from="1492103565455" duration="15585000" />
-      <workItem from="1493353697994" duration="19356000" />
+      <workItem from="1493353697994" duration="19846000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39782000" />
+    <option name="totallyTimeSpent" value="40272000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="106" y="23" width="1291" height="873" extended-state="0" />
+    <frame x="323" y="648" width="1291" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17874016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
